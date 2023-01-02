@@ -1,0 +1,14 @@
+Name of the student : Rohan Das 
+Class Roll of the student : 56
+Stream of the student : ECE 
+Your Student ID is : ECE2250
+
+Marks obtained in Math is : 81 
+Marks obtained in Python is : 87 
+Marks obtained in Physics is : 94 
+Marks obtained in Chemistry is : 95 
+Marks obtained in Biology is : 71 
+Marks obtained in English is : 94 
+
+You have got 522 in total with 105%
+Excellent Performance... You have passed the exam with grade B.

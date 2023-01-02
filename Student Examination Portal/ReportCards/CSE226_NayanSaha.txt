@@ -1,0 +1,14 @@
+Name of the student : Nayan Saha
+Class Roll of the student : 26 
+Stream of the student : CSE 
+Your Student ID is : CSE2226
+
+Marks obtained in Math is : 31 
+Marks obtained in Python is : 25 
+Marks obtained in Physics is : 58 
+Marks obtained in Chemistry is : 61 
+Marks obtained in Biology is : 88 
+Marks obtained in English is : 86 
+
+You have got 349 in total with 59%
+Your performance is below average... There is massive scope of improvement... You have barely passed the exam with grade E.

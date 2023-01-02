@@ -1,0 +1,14 @@
+Name of the student : Saksham Singh 
+Class Roll of the student : 22 
+Stream of the student : ECE 
+Your Student ID is : ECE2222
+
+Marks obtained in Math is : 76 
+Marks obtained in Python is : 65 
+Marks obtained in Physics is : 89 
+Marks obtained in Chemistry is : 94 
+Marks obtained in Biology is : 91 
+Marks obtained in English is : 68 
+
+You have got 483 in total with 96%
+Excellent Performance... You have passed the exam with grade B.
